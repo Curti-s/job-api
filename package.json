@@ -1,0 +1,12 @@
+{
+  "name": "jobby",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "express-ip": "^1.0.3"
+  }
+}
